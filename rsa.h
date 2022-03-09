@@ -6,7 +6,7 @@
 #include "primalite.h"
 
 typedef struct {
-    long val;
+    long val2;
     long n;
 } Key;
 
